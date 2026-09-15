@@ -1,0 +1,88 @@
+
+                           /* 🚀  POSITION AULA  🚀 */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* 
+input {
+    border: 1px solid black;
+    box-shadow: 1px 1px 4px;
+    margin-left: 3px;
+    margin-top: 3px;
+}
+
+input::placeholder {
+    color: rgb(30, 5, 106);
+}
+
+p {
+    color: black;
+}
+
+p::first-letter {    
+    color: red;              
+}
+
+p::first-line   PARA MUDAR A COR DA PRIMEIRA LINHA  */
+
+                                        /* FIM!!! */
+ 
+/*                                   
+                                    PSEUDO ELEMENTO */
+
+/* a{
+    color: rgb(0, 0, 0);
+}
+
+a::before{
+    content:"🚀";
+}
+
+a::after{
+    content:'🚀';
+}
+ 
+                                    FIM!!! */
+
+
+                                /* PSEUDO CLASSES PARTE 1*/
+/* 
+a:hover{
+
+color: rgb(118, 0, 229);
+}
+
+a{
+    color: rgb(0, 166, 255);
+}
+ 
+input:focus { 
+    outline: none;
+    
+    border:  5px solid red;
+}
+
+.div-1{
+width: 100px;
+height: 100px;
+background: red;
+margin-left: 400px;
+
+}
+
+.div-1:empty{
+    background: blue;
+}
+                        FIM!!!! */
+
+                        
+
+
+
+li:nth-child(1){
+
+    color: red;
+}

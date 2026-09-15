@@ -1,0 +1,195 @@
+
+h1 {
+    color: rgb(15, 15, 16);
+
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+
+}
+
+
+button {
+
+    color: blanchedalmond;
+    background: rgb(0, 0, 0);
+    font-size: 20px;
+
+}
+
+* {
+
+    background: blanchedalmond;
+}
+
+
+#segundobotao {
+    color: aquamarine;
+    background: black;
+    font-size: 20px;
+
+}
+
+#paragrafodois {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.texto {
+
+    color: rgb(0, 0, 0);
+    font-weight: 20px;
+}
+
+#milionario {
+
+    color: aliceblue;
+    background: black;
+    font-size: 20px;
+    font-weight: 20px;
+
+}
+
+.vo {
+    width: 50vw;
+    height: 50vh;
+    color: blueviolet;
+    background: black;
+
+}
+
+.pai {
+
+    background: blueviolet;
+    height: 50%;
+    width: 50%;
+}
+
+.filho {
+
+    background: blue;
+    color: white;
+    width: 10vw;
+    height: 10vh;
+}
+
+#pp {
+
+
+    color: blue;
+
+}
+
+#slk {
+
+
+    font-weight: bolder;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+    text-shadow: 10px 10px 10px black;
+}
+
+
+
+
+
+#pp {
+    color: blueviolet;
+    /* troca a cor do texto*/
+    font-size: 20px;
+    /* troca o tamanho do texto*/
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    line-height: 30px;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    text-align: justify;
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-shadow: 10px 10px 10px black;
+display: inline-block;
+
+
+
+}
+
+
+
+.box {
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    background: rgb(246, 4, 153);
+    padding: 50px;
+    margin: 20px;
+    border: 10px solid #B0E0E6;
+    box-sizing: border-cotent; /*vai crescendo de tamnaho*/
+    /* box-sizing: border-box; sempre vai manter o tamanho */
+    display: inline-block;
+
+}
+
+
+
+
+
+.box-2 {
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    background: #4B0082;
+    padding: 50px;
+    margin: 20px;
+}
+
+
+
+
+.box-3 {
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    background: #FFFF00;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 5px;
+    margin-right: 10px;
+
+    /* podemos usar um atalho, para não precisar escrever os quatros */
+
+    margin: 10px 50px 30px 5px;
+
+         /* 12h  15h  18h  21h */
+
+    margin: 10px 50px 30px;
+         /* 10px cima 50 px ambos lados 30 px baixo */
+
+
+    margin: 10px 50px;
+    /* atalho de dois 10px cima e baixo 50px direita e esquerda */
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
